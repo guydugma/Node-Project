@@ -1,0 +1,26 @@
+hi
+Database Connected
+DB_CONNECTION_STRING is not defined in your .env file
+hi
+DB_CONNECTION_STRING is not defined in your .env file
+hi
+DB_CONNECTION_STRING is not defined in your .env file
+hi
+DB_CONNECTION_STRING is not defined in your .env file
+hi
+DB_CONNECTION_STRING is not defined in your .env file
+hi
+DB_CONNECTION_STRING is not defined in your .env file
+hi
+DB_CONNECTION_STRING is not defined in your .env file
+hi
+3
+Database Connected
+3
+Atlas Database Connected
+3
+0
+3
+0
+Atlas Database Connected
+Database Connected
